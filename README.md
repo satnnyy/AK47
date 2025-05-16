@@ -6,7 +6,10 @@
 
 
 ## How do i install ?
-> Download the repo as a .zip, extract and move it to your .minecraft/config/ChatTriggers/modules/
+> Download the repo as a .zip, extract and move it to your
+>
+> .minecraft/config/ChatTriggers/modules/
+> 
 > If you dont have chattriggers google it or just watch the youtube video
 
 ## FAQ
