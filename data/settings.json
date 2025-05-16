@@ -1,0 +1,563 @@
+[
+    {
+        "category": "Blink",
+        "settings": [
+            {
+                "type": 6,
+                "name": "Blink",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "RenderBlinkStartEnd",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "RenderBlinkLine",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Autoroute",
+        "settings": [
+            {
+                "type": 6,
+                "name": "Autoroute",
+                "value": true
+            },
+            {
+                "type": 10,
+                "name": "AutorouteDisabler",
+                "value": 29
+            },
+            {
+                "type": 7,
+                "name": "RenderMode",
+                "value": 1
+            },
+            {
+                "type": 8,
+                "name": "AutorouteToggle",
+                "options": [
+                    {
+                        "name": "AutorouteDebug",
+                        "value": false
+                    },
+                    {
+                        "name": "RenderAutorouteThroughWalls",
+                        "value": false
+                    },
+                    {
+                        "name": "AutorouteDisableRendering",
+                        "value": false
+                    }
+                ]
+            },
+            {
+                "type": 2,
+                "name": "AutorouteCommands"
+            },
+            {
+                "type": 5,
+                "name": "AutorouteEtherColor",
+                "value": [
+                    85,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutorouteAwaitSecretColor",
+                "value": [
+                    255,
+                    85,
+                    85,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutorouteBatSpawnColor",
+                "value": [
+                    170,
+                    170,
+                    170,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutorouteStartWalkColor",
+                "value": [
+                    85,
+                    255,
+                    85,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutoroutePearlClipColor",
+                "value": [
+                    255,
+                    85,
+                    255,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutorouteUseColor",
+                "value": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutorouteWallClipColor",
+                "value": [
+                    170,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutorouteRotateColor",
+                "value": [
+                    255,
+                    255,
+                    85,
+                    255
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Auto P3",
+        "settings": [
+            {
+                "type": 6,
+                "name": "AutoP3",
+                "value": true
+            },
+            {
+                "type": 8,
+                "name": "AutoP3Toggle",
+                "options": [
+                    {
+                        "name": "AutoP3Debug",
+                        "value": true
+                    },
+                    {
+                        "name": "DisregardBossCheck",
+                        "value": true
+                    },
+                    {
+                        "name": "RenderRingsThroughWalls",
+                        "value": false
+                    },
+                    {
+                        "name": "DisableRingRendering",
+                        "value": false
+                    },
+                    {
+                        "name": "ToggleBossEntryRoute",
+                        "value": true
+                    },
+                    {
+                        "name": "ToggleP3StartRoute",
+                        "value": true
+                    }
+                ]
+            },
+            {
+                "type": 4,
+                "name": "BossEntryRoute",
+                "value": "Predev"
+            },
+            {
+                "type": 4,
+                "name": "P3StartRoute",
+                "value": "Healer"
+            },
+            {
+                "type": 2,
+                "name": "AutoP3Commands"
+            },
+            {
+                "type": 5,
+                "name": "AutoP3RotateColor",
+                "value": [
+                    255,
+                    191,
+                    0,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutoP3MotionColor",
+                "value": [
+                    170,
+                    170,
+                    170,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutoP3WaitColor",
+                "value": [
+                    0,
+                    0,
+                    170,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutoP3CoordSnapColor",
+                "value": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutoP3HClipColor",
+                "value": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutoP3KeyColor",
+                "value": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutoP3CmdColor",
+                "value": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "AutoP3BlinkColor",
+                "value": [
+                    255,
+                    255,
+                    85,
+                    255
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Auto P5",
+        "settings": [
+            {
+                "type": 6,
+                "name": "BlinkRelics",
+                "value": false
+            },
+            {
+                "type": 8,
+                "name": "RelicQoL",
+                "options": [
+                    {
+                        "name": "RelicAura",
+                        "value": false
+                    },
+                    {
+                        "name": "AutoRunToRelic",
+                        "value": true
+                    },
+                    {
+                        "name": "AutoEquipBlackCat",
+                        "value": false
+                    }
+                ]
+            },
+            {
+                "type": 7,
+                "name": "RelicToRunTo",
+                "value": 4
+            },
+            {
+                "type": 6,
+                "name": "AutoP5",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "AutoP5Debug",
+                "value": false
+            },
+            {
+                "type": 7,
+                "name": "HealerTeam",
+                "value": 0
+            },
+            {
+                "type": 6,
+                "name": "AutoLastBreath",
+                "value": true
+            },
+            {
+                "type": 1,
+                "name": "PurpleDelay",
+                "value": 6
+            },
+            {
+                "type": 1,
+                "name": "BlueDelay",
+                "value": 9
+            },
+            {
+                "type": 1,
+                "name": "OrangeDelay",
+                "value": 9
+            },
+            {
+                "type": 1,
+                "name": "RedDelay",
+                "value": 9
+            },
+            {
+                "type": 1,
+                "name": "GreenDelay",
+                "value": 9
+            },
+            {
+                "type": 6,
+                "name": "AutoIceSpray",
+                "value": true
+            },
+            {
+                "type": 1,
+                "name": "AutoIceSprayTick",
+                "value": 2
+            },
+            {
+                "type": 6,
+                "name": "AutoSoulWhip",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "AutoSoulWhipTick",
+                "value": 40
+            }
+        ]
+    },
+    {
+        "category": "Fast Leap",
+        "settings": [
+            {
+                "type": 6,
+                "name": "FastLeap",
+                "value": true
+            },
+            {
+                "type": 4,
+                "name": "FastLeapTarget",
+                "value": "Archer"
+            },
+            {
+                "type": 6,
+                "name": "FastLeapDoorOpener",
+                "value": false
+            },
+            {
+                "type": 8,
+                "name": "Auto",
+                "options": [
+                    {
+                        "name": "GreenPadAutoLeap",
+                        "value": true
+                    },
+                    {
+                        "name": "YellowPadAutoLeap",
+                        "value": false
+                    },
+                    {
+                        "name": "PurplePadAutoLeap",
+                        "value": false
+                    },
+                    {
+                        "name": "Pre4AutoLeap",
+                        "value": true
+                    }
+                ]
+            },
+            {
+                "type": 4,
+                "name": "GreenPadTarget",
+                "value": "Berserk"
+            },
+            {
+                "type": 4,
+                "name": "YellowPadTarget",
+                "value": "Healer"
+            },
+            {
+                "type": 4,
+                "name": "PurplePadTarget",
+                "value": ""
+            },
+            {
+                "type": 4,
+                "name": "Pre4Target",
+                "value": "Mage"
+            },
+            {
+                "type": 6,
+                "name": "TerminalFastLeap",
+                "value": true
+            },
+            {
+                "type": 4,
+                "name": "S1Target",
+                "value": "Hryak"
+            },
+            {
+                "type": 4,
+                "name": "S2Target",
+                "value": "Healer"
+            },
+            {
+                "type": 4,
+                "name": "S3Target",
+                "value": "Mage"
+            },
+            {
+                "type": 4,
+                "name": "S4Target",
+                "value": "Mage"
+            }
+        ]
+    },
+    {
+        "category": "Other",
+        "settings": [
+            {
+                "type": 6,
+                "name": "LavaClip",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "RenderLavaClipThroughWalls",
+                "value": true
+            },
+            {
+                "type": 8,
+                "name": "Clip",
+                "options": [
+                    {
+                        "name": "StormClip",
+                        "value": false
+                    },
+                    {
+                        "name": "CoreClip",
+                        "value": true
+                    }
+                ]
+            },
+            {
+                "type": 8,
+                "name": "Packets",
+                "options": [
+                    {
+                        "name": "PacketsSent",
+                        "value": false
+                    },
+                    {
+                        "name": "PacketsReceived",
+                        "value": false
+                    }
+                ]
+            },
+            {
+                "type": 8,
+                "name": "Simulate",
+                "options": [
+                    {
+                        "name": "SingleplayerEtherwarp",
+                        "value": true
+                    },
+                    {
+                        "name": "SingleplayerSpeed",
+                        "value": true
+                    },
+                    {
+                        "name": "SingleplayerLavaBounce",
+                        "value": true
+                    },
+                    {
+                        "name": "SingleplayerSuperbounce",
+                        "value": true
+                    }
+                ]
+            },
+            {
+                "type": 6,
+                "name": "ZeroPingEtherwarp",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "ZpewSuccessSound",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "InstamidSneak",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "Doorless",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "DoorlessClip",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "DarkMode",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "DarkModeOpacity",
+                "value": 51
+            }
+        ]
+    }
+]

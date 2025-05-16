@@ -1,0 +1,854 @@
+[
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": true,
+            "center": true,
+            "jump": false,
+            "edge": false,
+            "yaw": -90,
+            "pitch": 0
+        },
+        "x": 51.5,
+        "y": 108,
+        "z": 36.5,
+        "radius": "0.5",
+        "id": "1738566735962ti01txw0s"
+    },
+    {
+        "type": "hclip",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": 88
+        },
+        "x": 53.5,
+        "y": 132,
+        "z": 139.5,
+        "radius": "0.5",
+        "id": "1738719795255u5ohj8x42"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": 0
+        },
+        "x": 107.5,
+        "y": 120,
+        "z": 88,
+        "radius": "0.5",
+        "id": "1739227205716i6zaarz8c"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": true,
+            "dir": -90
+        },
+        "x": 5.5,
+        "y": 182,
+        "z": 0.5,
+        "radius": "0.5",
+        "id": "17407134429229215vo6x4"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": true,
+            "center": true,
+            "jump": false,
+            "edge": false,
+            "yaw": -90,
+            "pitch": 0
+        },
+        "x": 107.5,
+        "y": 120,
+        "z": 94,
+        "radius": "0.6",
+        "id": "1740718131844mrbgi96zd"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": 104
+        },
+        "x": 41.5,
+        "y": 131,
+        "z": 140,
+        "radius": "0.5",
+        "id": "1740719261793esfc8ymlg"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": 90
+        },
+        "x": 36,
+        "y": 131,
+        "z": 138.5,
+        "radius": "0.6",
+        "id": "17407197195410iml42rri"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": true,
+            "edge": false,
+            "dir": 137
+        },
+        "x": 29.5,
+        "y": 131,
+        "z": 138.5,
+        "radius": "0.5",
+        "id": "1740719729242v923jbyk3"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": true,
+            "jump": false,
+            "edge": false,
+            "dir": 0
+        },
+        "x": 94.5,
+        "y": 115,
+        "z": 57.5,
+        "radius": "0.5",
+        "id": "17407214256410e5wipmh1"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": true,
+            "jump": false,
+            "edge": false,
+            "yaw": -82,
+            "pitch": 0
+        },
+        "x": 47.5,
+        "y": 65,
+        "z": 75.5,
+        "radius": "0.5",
+        "id": "17407215348904xdlki0dz"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": true,
+            "dir": -34
+        },
+        "x": 98.5,
+        "y": 119,
+        "z": 73.5,
+        "radius": "0.5",
+        "id": "1741505930773loe4hf429"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": true,
+            "jump": false,
+            "edge": false,
+            "dir": -53
+        },
+        "x": 94.5,
+        "y": 119,
+        "z": 70.5,
+        "radius": "0.5",
+        "id": "17415059499235axu3udcp"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": true,
+            "jump": false,
+            "edge": false,
+            "dir": 90
+        },
+        "x": 101.5,
+        "y": 115,
+        "z": 57.5,
+        "radius": "0.5",
+        "id": "174151190604239u1uulpo"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": true,
+            "jump": false,
+            "edge": false,
+            "dir": 90
+        },
+        "x": 100.5,
+        "y": 115,
+        "z": 57.5,
+        "radius": "0.5",
+        "id": "1741511909141bl4xusdt4"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": 180
+        },
+        "x": 2.5,
+        "y": 125,
+        "z": 84.5,
+        "radius": "0.5",
+        "id": "1741659779476qma5mgz6v"
+    },
+    {
+        "type": "hclip",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": -163.5
+        },
+        "x": 81.5,
+        "y": 123,
+        "z": 44.5,
+        "radius": "0.5",
+        "id": "17416622514763ylonrkmh"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": -84.5
+        },
+        "x": 32.5,
+        "y": 109,
+        "z": 34.5,
+        "radius": "0.5",
+        "id": "17416643152806rr0ycarj"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": 180
+        },
+        "x": 2.3565744369464525,
+        "y": 115,
+        "z": 107.53991395809248,
+        "radius": "0.5",
+        "id": "17416669837764rukq7jlh"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": true,
+            "center": true,
+            "jump": false,
+            "edge": false,
+            "yaw": 180,
+            "pitch": 0
+        },
+        "x": 2.5,
+        "y": 109,
+        "z": 102.5,
+        "radius": "0.5",
+        "id": "1741667381180yz8zg59gu"
+    },
+    {
+        "type": "hclip",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": -83.5
+        },
+        "x": 51.5,
+        "y": 122,
+        "z": 36.5,
+        "radius": "0.5",
+        "id": "1741667935026f7jcbvo86"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": -12.5
+        },
+        "x": 69.5,
+        "y": 114,
+        "z": 38.5,
+        "radius": "0.5",
+        "id": "1741667954374va6y8p0jh"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "yaw": -140,
+            "pitch": 45
+        },
+        "x": 2.5,
+        "y": 123,
+        "z": 78.5,
+        "radius": "0.5",
+        "id": "1741876446165xlnxuvr8w"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "yaw": -180,
+            "pitch": 0
+        },
+        "x": 81.5,
+        "y": 106,
+        "z": 44.5,
+        "radius": "0.5",
+        "id": "1743163782345lzidgpnsa"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": true,
+            "stop": false,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "yaw": 90,
+            "pitch": 0
+        },
+        "x": 53.5,
+        "y": 110,
+        "z": 139.5,
+        "radius": "0.5",
+        "id": "1743744621050zab5e5zpa"
+    },
+    {
+        "type": "motion",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": true,
+            "jump": false,
+            "edge": false,
+            "dir": 145.5
+        },
+        "x": 19.5,
+        "y": 129,
+        "z": 128.5,
+        "radius": "0.5",
+        "id": "1743744926497ll5h3xs6e"
+    },
+    {
+        "type": "cmd",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "command": "brr ee3_2"
+        },
+        "x": 15.5,
+        "y": 129,
+        "z": 122.5,
+        "radius": "0.5",
+        "id": "17437449597454upwf3ygd"
+    },
+    {
+        "type": "cmd",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "command": "brr new_healer_s3_1"
+        },
+        "x": 2.1233421280365317,
+        "y": 109,
+        "z": 99.7274653811565,
+        "radius": "0.5",
+        "id": "1743745190343w1cbzq2qk"
+    },
+    {
+        "type": "hclip",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": 143.130615234375
+        },
+        "x": -0.7284736625454072,
+        "y": 119,
+        "z": 93.29485746840639,
+        "radius": "0.6",
+        "id": "1743746212096do4634ciz"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "yaw": 151.17384338378906,
+            "pitch": 0.5
+        },
+        "x": -0.9705785420228981,
+        "y": 106,
+        "z": 93.30000001192093,
+        "radius": "0.5",
+        "id": "1743746434899mw4wvbql5"
+    },
+    {
+        "type": "cmd",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "command": "brr Healer_S3_2"
+        },
+        "x": -1.0823334144807084,
+        "y": 121.5,
+        "z": 91.25256000334589,
+        "radius": "0.4",
+        "id": "1743746788148aom9p5ggq"
+    },
+    {
+        "type": "cmd",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "command": "brr EE3_1"
+        },
+        "x": 54.5857773902046,
+        "y": 115,
+        "z": 49.126373234288124,
+        "radius": "0.5",
+        "id": "1743747231895hyvlm9xw9"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "yaw": 180,
+            "pitch": 0
+        },
+        "x": 83.5,
+        "y": 106,
+        "z": 45.5,
+        "radius": "0.5",
+        "id": "1743747569944id20qjo3g"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "yaw": 180,
+            "pitch": 0
+        },
+        "x": 83.5,
+        "y": 106,
+        "z": 44.5,
+        "radius": "0.5",
+        "id": "17437475757454hp68u28b"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": true,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "yaw": 90,
+            "pitch": 0
+        },
+        "x": 84.5,
+        "y": 120,
+        "z": 35.5,
+        "radius": "0.7",
+        "id": "1743817820931tqd6m8v35"
+    },
+    {
+        "type": "cmd",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "command": "brr levers"
+        },
+        "x": 72.5,
+        "y": 115,
+        "z": 45.5,
+        "radius": "0.5",
+        "id": "1743817944038j662ak297"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": true,
+            "motion": true,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "yaw": 179.8,
+            "pitch": 1.4
+        },
+        "x": 72.5,
+        "y": 115,
+        "z": 46.5,
+        "radius": "0.5",
+        "id": "1743817961284ege45tizl"
+    },
+    {
+        "type": "hclip",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "dir": -90
+        },
+        "x": 3.5,
+        "y": 121,
+        "z": 56.5,
+        "radius": "0.5",
+        "id": "1743818106433ynto86pjx"
+    },
+    {
+        "type": "cmd",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "command": "brr healers2_lever"
+        },
+        "x": 1.5,
+        "y": 120,
+        "z": 78.5,
+        "radius": "0.3",
+        "id": "17438182426378pgxehqew"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": true,
+            "center": true,
+            "jump": false,
+            "edge": false,
+            "yaw": 180,
+            "pitch": 0
+        },
+        "x": 13.5,
+        "y": 121,
+        "z": 56.5,
+        "radius": "0.5",
+        "id": "1743818266284v5nmzgy22"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": true,
+            "center": true,
+            "jump": false,
+            "edge": false,
+            "yaw": -90,
+            "pitch": 0.7
+        },
+        "x": 0.5,
+        "y": 120,
+        "z": 78.5,
+        "radius": "0.5",
+        "id": "1743818418740cj42pew8z"
+    },
+    {
+        "type": "cmd",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "command": "brr s2"
+        },
+        "x": 58.5,
+        "y": 109,
+        "z": 130.5,
+        "radius": "0.5",
+        "id": "1743894095067mgfs0lqnv"
+    },
+    {
+        "type": "cmd",
+        "data": {
+            "walk": false,
+            "stop": false,
+            "rotate": false,
+            "term": false,
+            "motion": false,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "command": "brr s2_1"
+        },
+        "x": 58.5,
+        "y": 109,
+        "z": 131.5,
+        "radius": "0.5",
+        "id": "1743894099667hxt9nl05t"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": false,
+            "motion": true,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "yaw": 90,
+            "pitch": 0
+        },
+        "x": 53.5,
+        "y": 106,
+        "z": 139.5,
+        "radius": "0.5",
+        "id": "1743894198716iy0o8hzjr"
+    },
+    {
+        "type": "rotate",
+        "data": {
+            "walk": false,
+            "stop": true,
+            "rotate": true,
+            "term": true,
+            "motion": true,
+            "center": false,
+            "jump": false,
+            "edge": false,
+            "yaw": -123,
+            "pitch": 0
+        },
+        "x": -1.5,
+        "y": 121,
+        "z": 91.5,
+        "radius": "0.5",
+        "id": "1743894365066o2kj2svfc"
+    }
+]
