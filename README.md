@@ -1,5 +1,4 @@
 # AK 47
-## Hypixel Skyblock Dungeons QOL Mod
 
 > Very good autoroutes, gets stuck on some expected places, but overall really good. You can add your own routes if you prefer 
 > Everything about this module is decent other than the pasted code and the no protection
