@@ -1,8 +1,0 @@
-{
-  "name": "AK47",
-  "creator": "Snowyy",
-  "description": "Auto",
-  "version": "1.0.0",
-  "entry": "index.js",
-  "requires": ["Amaterasu", "BloomCore", "RenderLib", "discord","requestV2"]
-}
