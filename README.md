@@ -9,7 +9,8 @@
 > Download the repo as a .zip, extract and move it to your
 >
 > .minecraft/config/ChatTriggers/modules/
-> ##MAKE SURE TO RENAME THE FOLDER TO AK47.ZIP OR ELSE IT WILL NOT WORK
+>
+##MAKE SURE TO RENAME THE FOLDER TO AK47.ZIP OR ELSE IT WILL NOT WORK
 > 
 > If you dont have chattriggers google it or just watch the youtube video
 
