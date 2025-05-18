@@ -289,15 +289,11 @@ register("packetReceived", (packet, event) => {
     } else inTerminal = false
 }).setFilteredClass(S2DPacketOpenWindow)
 
-register("packetReceived", () => inTerminal = false).setFilteredClass(S2EPacketCloseWindow)
-register("packetSent", () => inTerminal = false).setFilteredClass(C0DPacketCloseWindow)
-register("worldLoad", () => {
-    inTerminal = false
-    terminalListener.unregister()
-})
-register("worldload", () => {
-    performHandshakeCheck();
-});
+register("packetReceived", () => inTerminal = false).setFilteredClass(S2EPacketCloseWindow);
+register("packetSent", () => inTerminal = false).setFilteredClass(C0DPacketCloseWindow);
+register("worldLoad", () => { inTerminal = false; terminalListener.unregister(); });
+register("load", () => performHandshakeCheck());
+
 
 export const holdingItem = (itemName) => {
     const item = Player.getHeldItem()
