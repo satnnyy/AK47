@@ -292,7 +292,7 @@ register("packetReceived", (packet, event) => {
 register("packetReceived", () => inTerminal = false).setFilteredClass(S2EPacketCloseWindow);
 register("packetSent", () => inTerminal = false).setFilteredClass(C0DPacketCloseWindow);
 register("worldLoad", () => { inTerminal = false; terminalListener.unregister(); });
-register("load", () => performHandshakeCheck());
+register("gameload", () => performHandshakeCheck());
 
 
 export const holdingItem = (itemName) => {
