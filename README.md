@@ -10,6 +10,7 @@
 > .minecraft/config/ChatTriggers/modules/
 >
 ## MAKE SURE TO RENAME THE FOLDER TO AK47 OR ELSE IT WILL NOT WORK
+## THEN DO /ct load OR ELSE IT MAY NOT WORK PROPERLY
 > 
 > If you dont have chattriggers google it or just watch the youtube video
 
