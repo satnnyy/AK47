@@ -21,5 +21,3 @@
 > its pretty nice ig and its free(now) so thats a plus
 ### Is this unsafe/a rat ?
 > no it isnt. its a chattriggers module so just read through all the code any 10 year old can see what it does but please do NOT download anything that isnt opensource/from a trusted dev 
-### Discord?
-> hutuing
